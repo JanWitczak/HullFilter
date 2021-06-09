@@ -36,6 +36,7 @@ namespace HullFilter
                 {
                     if (DisabledHulls.Contains((string)hull["Description"])) hull["Active"] = false;
                 }
+                Hulls.AcceptChanges();
             }
             HullSettings dialogue = new HullSettings(ref Hulls);
             if (dialogue.ShowDialog() == DialogResult.OK)
