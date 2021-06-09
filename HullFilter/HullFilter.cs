@@ -22,6 +22,17 @@ namespace HullFilter
         private static Lib.Lib lib;
         protected override void Loaded(Harmony harmony)
         {
+            if (Hulls == null)
+            {
+                ReadDatabase();
+                DisabledHulls = Deserialize<List<String>>("DisabledHulls");
+                if (DisabledHulls == default(List<String>)) DisabledHulls = new List<string>();
+                foreach (DataRow hull in Hulls.Rows)
+                {
+                    if (DisabledHulls.Contains((string)hull["Description"])) hull["Active"] = false;
+                }
+                Hulls.AcceptChanges();
+            }
             lib = GetDependency<Lib.Lib>("Lib");
             lib.RegisterEventHandler(Lib.AuroraType.ClassDesignForm, "Shown", GetType().GetMethod("ClassDesignFormShown", AccessTools.all));
         }
