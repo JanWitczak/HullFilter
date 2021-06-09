@@ -1,0 +1,241 @@
+1;Escort;ES
+2;Corvette;CT
+3;Frigate;FF
+4;Missile Frigate;FFG
+5;Destroyer;DD
+6;Missile Destroyer;DDG
+7;Light Cruiser;CL
+8;Heavy Cruiser;CA
+9;Battlecruiser;BC
+10;Battleship;BB
+11;Dreadnought;DN
+12;Superdreadnought;SD
+13;Monitor;MN
+14;Patrol Craft;PC
+15;Fast Attack Craft;FAC
+16;Scout;SC
+17;Freighter;FT
+18;Escort Cruiser;CLE
+19;Destroyer Escort;DE
+20;Escort Carrier;CVE
+21;Strike Carrier;CVS
+22;Carrier;CV
+23;Light Carrier;CVL
+24;Heavy Carrier;CVA
+25;Cruiser;CA
+26;Patrol Cruiser;CP
+27;Colony Ship;CS
+28;Survey Ship;SS
+29;Survey Cruiser;CS
+30;Science Vessel;SV
+31;Missile Cruiser;CG
+32;Jump Cruiser;CJ
+33;Jump Tender;TJ
+34;Courier;CO
+35;Construction Ship;JCS
+36;Troop Transport;TT
+37;Assault Ship;AS
+38;Fuel Harvester;FH
+39;Strike Cruiser;CS
+40;War Cruiser;CW
+41;Drakar;DK
+42;Tanker;TK
+43;Terraformer;TR
+44;Jump Ship;JS
+45;Hyper-capable Freighter;HFT
+46;Deep Space Survey Ship;DSS
+47;Destroyer Leader;DL
+48;Patrol Ship;PS
+49;Base;BS
+50;Tug;TG
+51;Scout/Courier;SC
+52;Orbital Miner;OM
+53;Salvager;SV
+54;Area Defence Cruiser;ADC
+55;Jump Freighter;FJ
+56;Fleet Scout;FSC
+57;Geosurvey Ship;GE
+58;Bombardment Cruiser;CB
+59;Planetary Defence Centre;PDC
+60;Planetary Fighter Base;PFB
+61;Scout Frigate;SF
+62;Collier;CO
+63;Assault Transport;AT
+64;Jump Frigate;JF
+65;Survey Command Ship;SCS
+66;Gravsurvey Ship;GV
+67;Missile Base;MB
+68;Gunboat;GB
+69;Mothership;MS
+70;Early Warning Craft;AEW
+71;Shuttle;ST
+72;Pinnace;PN
+73;Survey Support;SS
+74;Scout Cruiser;SCL
+75;Support Vessel;SV
+76;Attack Craft;FAC
+77;Point Defence Base;PDB
+78;Jump Destroyer;JD
+79;Fast Scout Craft;FSC
+80;Fighter;FTR
+81;Heavy Fighter;FTH
+82;Interceptor;FTI
+83;Light Fighter;FTL
+84;Recon Fighter;FTR
+85;Strikefighter;FTR
+86;Sensor Outpost;SO
+87;Survey Corvette;SC
+88;Fighter Base;FB
+89;Missile Boat;MB
+90;Resupply Base;RB
+91;Fighter-bomber;FB
+92;Fighter-Scout;FS
+93;Scout Fighter;FS
+94;ICBM Launch Base;ILB
+95;Recon Satellite;RS
+96;Orbital Weapon Platform;OWP
+97;Missile Defence Satellite;MDS
+98;Maintenance Vessel;MV
+99;Minelayer;ML
+100;Heavy Battlecruiser;BCH
+101;Missile Defence Base;MDB
+102;Fleet Support Vessel;FSV
+103;Fuel Harvester Base;FHB
+104;Jump Battlecruiser;BCJ
+105;Jump Destroyer Escort;DEJ
+106;Jump Escort Cruiser;JCLE
+107;Battlestar;BST
+108;Recon Frigate;RF
+109;Replenishment Ship;RS
+110;Maintenance Base;PMB
+111;Long Range Survey Ship;LRS
+112;Long Range Gravsurvey Vessel;GVL
+113;Dropship;DS
+114;Assault Shuttle;AST
+115;Luxury Liner;SS
+116;Gravitational Survey Vessel;GSV
+117;Geological Survey Vessel;GEV
+118;Assault Carrier;CVH
+119;Command Dropship;DSC
+120;Cargo Ship;FT
+121;Passenger Cruiser;SS
+122;Spaceliner;SL
+123;Landing Craft Assault;LCA
+124;Armoured Cruiser;CA
+125;Star Swarm;ST
+126;Beam Defence Base;BDB
+127;Launch Complex;GLC
+128;Command Ship;CC
+129;Frigate Leader;FFL
+130;Auxiliary Transport;AT
+131;Hunter;SC
+132;Oiler;OL
+133;Surveillance Cruiser;CSC
+134;Landing Craft Utility;LCU
+135;Dropship Escort;DSE
+136;Fleet Tug;FTG
+150;Orbital Habitat;OH
+151;Space Station;SS
+153;Survey Craft;SC
+155;Exploration Ship;EX
+156;Jump Scout;JSC
+157;Scout Base;SCB
+158;Jump Point Defence Base;JPDB
+159;FAC Tender;FACT
+160;Fighter Transport;FTRT
+161;Fighter Storage;FS
+162;Surveillance Frigate;SF
+163;Planetary Surveillance Base;PSB
+164;Fast Scout;SCF
+165;High Speed Scout;SCH
+167;Superfreighter;FTH
+168;Patrol Vessel;PV
+169;Terraforming Base;TFB
+170;Fast Patrol Craft;PC
+171;Base Star;BS
+172;Raider;RD
+173;Orbital Defence Monitor;ODM
+174;War Cruiser Leader;CWL
+175;Ammunition Transport;AMT
+176;Stealth Scout;SS
+177;Armed Scout;ASC
+178;Scout Carrier;CV-S
+179;Command Cruiser;CC
+180;Hospital Ship;HS
+181;Rescue Shuttle;RS
+182;Recreational Ship;RS
+183;Sensor Platform;SCP
+184;Dropship Carrier;DCV
+185;Repair Ship;RV
+186;Scout Destroyer;DSC
+187;Lifeboat;LB
+188;FAC Leader;FAC-L
+189;FAC Transport;FAC-CV
+190;Kinetic Cruiser;CK
+191;Kinetic Frigate;FK
+192;Jump Colony Ship;CSJ
+193;Mobile Jump Gate;MJG
+195;Kinetic Battlecruiser;BK
+196;Military Tanker;TKM
+197;Survey Support Base;SSB
+198;Auxiliary Carrier;CV-AUX
+199;Fleet Base (Maintenance);FB-M
+200;Fleet Base (Repair);FB-R
+201;Heavy Freighter;FTH
+202;Battle Barge;BBG
+203;Bomber;BM
+204;Gunship;GS
+205;Torpedo Bomber;TB
+206;Galleon;FTH
+207;Mass Conveyor;FT-M
+208;Carrack;CK
+209;Transport;TR
+210;Starport;STAR
+211;Unknown;XX
+212;Intelligence Ship;IS
+213;Orbital Defence Base;ODB
+214;Hive Ship;HVS
+215;Survey Cruiser;SRV
+216;Stabilisation Ship;STB
+217;Jump Stabilisation Station;JSS
+218;Mining Platform;MNP
+219;Landing Ship;LS
+220;Jump Tender Station;JTS
+221;Survey Command Cruiser;CCS
+222;Survey Support Cruiser;CSS
+223;Fast Tanker;FTK
+224;Defence Monitor;MND
+225;Terraforming Station;TS
+226;Orbital Defence Platform;ODP
+227;Gravitational Survey Craft;GSC
+228;Lander;LN
+229;Light Jump Cruiser;CLJ
+230;Exploration Cruiser;CX
+231;Survey Frigate;FS
+232;Fuel Harvester Station;FHS
+233;Star Fortress;FRT
+234;Orbital Mining Platform;OMP
+235;Reconnaissance Craft;RC
+236;Launch Platform;LP
+237;Recon Craft;RC
+238;Geological Survey Craft;GEC
+239;Anchorage;ANC
+240;Protected Cruiser;CP
+241;Second Class Cruiser;C2
+242;Third Class Cruiser;C3
+243;Torpedo Boat;TB
+244;Scout Boat;SB
+245;Diplomatic Station;DIP
+246;Diplomatic Ship;DIP
+247;Shuttlecraft;SCT
+248;Military Tanker;TKM
+249;Troop Shuttle;TS
+250;Intelligence Corvette;ICV
+251;Ground Support Fighter;GSF
+252;Survey Tender;ST
+253;Breaching Pod;BPOD
+254;Escort Frigate;FFE
+255;Police Cutter;PC
+256;Command Destroyer;CDD
+257;Orbital Mining Station;OMS
+258;Salvage Station;SVS
